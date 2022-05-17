@@ -30,21 +30,21 @@ Tachado: ~~texto~~.
 1. Elemento uno
 2. Elemento dos
 
-`código`
-
-```javascript
-console.log('Hola mundo');
-
 | Encabezado 1 | Encabezado 2 |
 | ------------ | ------------ |
 | Fila 1       | Valor 1      |
 | Fila 2       | Valor 2      |
 
-[Texto del enlace](https://enlace.com)
+[Texto del enlace](https://github.com/juanjosecavila)
 
-![Texto alternativo](https://ruta-de-la-imagen.com)
+![Texto alternativo](https://github.com/favicon.ico)
 
 <p>Esto es un párrafo en HTML dentro de Markdown</p>
 
 - [ ] Tarea 1
 - [x] Tarea 2
+
+`código`
+
+```javascript
+console.log('Hola mundo');
