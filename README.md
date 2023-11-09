@@ -3,7 +3,7 @@
 <br />
 
 <div
-  style="display: flex; justify-content: center; align-items: center; text-align: center;">
+  style="align: center;">
   <a href="https://github.com/juanjosecavila">
     <img
       src="https://img.shields.io/badge/-Welcome%20to%20my%20GitHub-black?logo=Github&logoColor=white"
@@ -21,7 +21,7 @@
 <br />
 
 <div
-  style="display: flex; justify-content: space-between; align-items: center;">
+  style="align: center;">
   <div></div>
   <div>
     <a href="https://www.linkedin.com/in/juanjosecanoavila/">
@@ -49,134 +49,51 @@
 
 ### 🔎 Front
 
-<div
-  style="display: flex; justify-content: space-between; align-items: center;">
-  <div></div>
-  <div>
+<div style="align: center;">
     <img src="./img/html-5.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
-   <img src="./img/css-3.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
+    <img src="./img/css-3.svg" style="width: 80px; height: auto;">
    <img src="./img/javascript.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
    <img src="./img/nodejs-icon-alt.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/vue.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/react.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
 </div>
 
 ### 🌐 Back
 
-<div
-  style="display: flex; justify-content: space-between; align-items: center;">
-  <div></div>
-  <div>
+<div style="align: center;">
     <img src="./img/dotnet.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
-   <img src="./img/c-sharp.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
+    <img src="./img/c-sharp.svg" style="width: 80px; height: auto;">
     <img src="./img/c-plusplus.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/java.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/python.svg" style="width: 80px; height: auto;">
-    </svg>
-  </div>
-  <div></div>
 </div>
 
 ### 🗄 Database
 
-<div
-  style="display: flex; justify-content: space-between; align-items: center;">
-  <div></div>
-  <div>
+<div style="align: center;">
     <img src="./img/mysql.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/redis.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/mongodb-icon.svg" style="width: 50px; height: auto;">
-  </div>
-  <div></div>
 </div>
 
 ### 📈 DevOps
 
-<div
-  style="display: flex; justify-content: space-between; align-items: center;">
-  <div></div>
-  <div>
+<div style="align: center;">
     <img src="./img/microsoft-azure.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/aws.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/google-cloud.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/firebase.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
 </div>
 
 ### 📱 Other
 
-<div
-  style="display: flex; justify-content: space-between; align-items: center;">
-  <div></div>
-  <div>
+<div style="align: center;">
     <img src="./img/google-play-icon.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/android-icon.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/flutter.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/apple-app-store.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/apple.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
-  <div>
     <img src="./img/swift.svg" style="width: 80px; height: auto;">
-  </div>
-  <div></div>
 </div>
 
 <br />
@@ -202,7 +119,7 @@
 <br />
 
 <div
-  style="display: flex; justify-content: space-between; align-items: center;">
+  style="align: center;">
   <div>
     <img
     src="https://img.shields.io/github/languages/top/juanjosecavila/juanjosecavila"
