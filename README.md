@@ -190,15 +190,15 @@
   <img title="Repo Stats"
     src="https://img.shields.io/github/languages/top/juanjosecavila/juanjosecavila"
     alt="Language"
-    style="width: 90px; height: auto;">
+    style="width: auto; height: auto; max-height:120px;">
     &nbsp;&nbsp;
   <img title="Repo Stats"
     src="https://img.shields.io/github/license/juanjosecavila/juanjosecavila"
     alt="License"
-    style="width: 125px; height: auto;">
+    style="width: auto; height: auto; max-height:120px;">
     &nbsp;&nbsp;
   <img title="Repo Stats"
     src="https://img.shields.io/github/last-commit/juanjosecavila/juanjosecavila"
     alt="Last commit"
-    style="width: 175px; height: auto;">
+    style="width: auto; height: auto; max-height:120px;">
 </div>
