@@ -6,7 +6,7 @@
       title="GitHub"
       src="https://img.shields.io/badge/-Welcome%20to%20my%20GitHub-black?logo=Github&logoColor=white"
       alt="GitHub"
-      style="width: 700px; height: auto;">
+      style="width: 750px; height: auto;">
   </a>
 </div>
 
@@ -22,11 +22,20 @@
   <a href="https://github.com/juanjosecavila">
     <img
       title="Github"
+      src="https://img.shields.io/badge/juanjosecavila-black?logo=github&logoColor=white"
+      alt="Github"
+      style="width: 320px; height: auto;">
+  </a>
+</div>
+<!--div align="center">
+  <a href="https://github.com/juanjosecavila">
+    <img
+      title="Github"
       src="https://img.shields.io/badge/https://github.com/juanjosecavila-black?logo=github&logoColor=white"
       alt="Github"
       style="width: 650px; height: auto;">
   </a>
-</div>
+</div-->
 
 <br />
 
@@ -34,11 +43,20 @@
   <a href="https://www.linkedin.com/in/juanjosecanoavila/">
     <img
       title="LinkedIn"
+      src="https://img.shields.io/badge/-juanjosecanoavila-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjosecavila"
+      alt="LinkedIn"
+      style="width: 360px; height: auto;">
+  </a>
+</div>
+<!--div align="center">
+  <a href="https://www.linkedin.com/in/juanjosecanoavila/">
+    <img
+      title="LinkedIn"
       src="https://img.shields.io/badge/-https://www.linkedin.com/in/juanjosecanoavila/-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjosecavila"
       alt="LinkedIn"
       style="width: 750px; height: auto;">
   </a>
-</div>
+</div-->
 
 <br />
 
@@ -48,7 +66,7 @@
       title="Gmail"
       src="https://img.shields.io/badge/-juanjosecanoavila@gmail.com%20-%23121011?logo=gmail"
       alt="Email"
-      style="width: 500px; height: auto;">
+      style="width: 530px; height: auto;">
   </a>
 </div>
 
