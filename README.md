@@ -6,7 +6,7 @@
       title="GitHub"
       src="https://img.shields.io/badge/-Welcome%20to%20my%20GitHub-black?logo=Github&logoColor=white"
       alt="GitHub"
-      style="width: 700px; height: auto;">
+      style="width: 750px; height: auto;">
   </a>
 </div>
 
@@ -19,14 +19,44 @@
 <br />
 
 <div align="center">
+  <a href="https://github.com/juanjosecavila">
+    <img
+      title="Github"
+      src="https://img.shields.io/badge/juanjosecavila-black?logo=github&logoColor=white"
+      alt="Github"
+      style="width: 320px; height: auto;">
+  </a>
+</div>
+<!--div align="center">
+  <a href="https://github.com/juanjosecavila">
+    <img
+      title="Github"
+      src="https://img.shields.io/badge/https://github.com/juanjosecavila-black?logo=github&logoColor=white"
+      alt="Github"
+      style="width: 650px; height: auto;">
+  </a>
+</div-->
+
+<br />
+
+<div align="center">
   <a href="https://www.linkedin.com/in/juanjosecanoavila/">
     <img
       title="LinkedIn"
       src="https://img.shields.io/badge/-juanjosecanoavila-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjosecavila"
       alt="LinkedIn"
-      style="width: 250px; height: auto;">
+      style="width: 360px; height: auto;">
   </a>
 </div>
+<!--div align="center">
+  <a href="https://www.linkedin.com/in/juanjosecanoavila/">
+    <img
+      title="LinkedIn"
+      src="https://img.shields.io/badge/-https://www.linkedin.com/in/juanjosecanoavila/-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanjosecavila"
+      alt="LinkedIn"
+      style="width: 750px; height: auto;">
+  </a>
+</div-->
 
 <br />
 
@@ -36,7 +66,7 @@
       title="Gmail"
       src="https://img.shields.io/badge/-juanjosecanoavila@gmail.com%20-%23121011?logo=gmail"
       alt="Email"
-      style="width: 400px; height: auto;">
+      style="width: 530px; height: auto;">
   </a>
 </div>
 
@@ -160,15 +190,15 @@
   <img title="Repo Stats"
     src="https://img.shields.io/github/languages/top/juanjosecavila/juanjosecavila"
     alt="Language"
-    style="width: 90px; height: auto;">
+    style="width: auto; height: auto; max-height:120px;">
     &nbsp;&nbsp;
   <img title="Repo Stats"
     src="https://img.shields.io/github/license/juanjosecavila/juanjosecavila"
     alt="License"
-    style="width: 125px; height: auto;">
+    style="width: auto; height: auto; max-height:120px;">
     &nbsp;&nbsp;
   <img title="Repo Stats"
     src="https://img.shields.io/github/last-commit/juanjosecavila/juanjosecavila"
     alt="Last commit"
-    style="width: 175px; height: auto;">
+    style="width: auto; height: auto; max-height:120px;">
 </div>
