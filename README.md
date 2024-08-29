@@ -144,6 +144,22 @@
     style="width: 80px; height: auto;">
 </div>
 
+### 🖥️ OS
+
+<div align="center">
+  <img title="Terminal" src="./img/terminal.svg"
+    style="width: 80px; height: auto;">
+    &nbsp;&nbsp;
+  <img title="Windows" src="./img/microsoft-windows-icon.svg"
+    style="width: 80px; height: auto;">
+    &nbsp;&nbsp;
+  <img title="Apple" src="./img/apple.svg"
+    style="width: 80px; height: auto;">
+    &nbsp;&nbsp;
+  <img title="Linux" src="./img/linux-tux.svg"
+    style="width: 80px; height: auto;">
+</div>
+
 ### 📱 Other
 
 <div align="center">
@@ -157,9 +173,6 @@
     style="width: 80px; height: auto;">
     &nbsp;&nbsp;
   <img title="App Store" src="./img/apple-app-store.svg"
-    style="width: 80px; height: auto;">
-    &nbsp;&nbsp;
-  <img title="Apple" src="./img/apple.svg"
     style="width: 80px; height: auto;">
     &nbsp;&nbsp;
   <img title="Swift" src="./img/swift.svg"
